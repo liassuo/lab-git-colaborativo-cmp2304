@@ -1,4 +1,4 @@
 # Lista de Presença - Atividade de Laboratório Git/GitHub
-Pedro Felipe
-20231003300961 Luiz Iassuo
-20231003300490 Samuel Furtado
+20231003301038 - Pedro Felipe
+20231003300961 - Luiz Iassuo
+20231003300490 - Samuel Furtado
